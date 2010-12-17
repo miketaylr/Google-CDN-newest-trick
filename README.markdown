@@ -1,0 +1,2 @@
+Here is a little trick to keep the files that are pulled from the google cdn such as the jquery pull in the index of boilplate. 
+As long as the file doesn't version up (example: go from jquery 1.9.8 to jquery 2.0) the cdn will send the newest file that is hosted.
